@@ -1,0 +1,83 @@
+.h1
+{
+    position: relative; top: 28%;
+    text-align: center;
+    color: crimson;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#navegacao
+{
+    background-color:blueviolet;
+}
+.body
+{
+    background-color: #cccccc;
+}
+#bodysb
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#sobred
+{
+    text-align:justify;
+    position: relative; top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-color: #cccccc;
+    opacity: 80%;
+    height: 120px;
+}
+#descricaosb
+{
+    font-size: 24px;
+    background-color: #cccccc;
+    opacity: 80%;
+    position: relative; top: -32px;
+}
+.inicio
+{
+    text-align: center;
+}
+#pedido_img
+{
+    width: 270px;
+    height: 230px;
+    position: relative; right: 15px; top: 8px;
+}
+#promocao_img
+{
+   width: 600px;
+   height: 300px;
+}
+#about_img
+{
+    width: 295px;
+    height: 230px;
+    position: relative; left: 15px; top: 8px;
+}
+a
+{
+    display:contents;
+}
+.preço
+{
+    color: green;
+}
+
+.row
+{
+    width: 95%;
+    position: relative; left:3%;
+}
+#Navcolor
+{
+    color:#ffc107;
+}
+.alinhar
+{
+    text-align: center;
+}
